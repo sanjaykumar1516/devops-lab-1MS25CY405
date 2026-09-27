@@ -1,8 +1,6 @@
 Version:0.1.0-dev
 
-##Endpoints 
-<<<<<<< HEAD
-EDIT THE SAME LINE differently:
+Devops Lab -Quote API
 =======
 
 - GET /quote returns a random quote
