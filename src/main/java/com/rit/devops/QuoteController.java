@@ -17,3 +17,5 @@ return quotes.get(new Random().nextInt(quotes.size()));
 @GetMapping("/health")
 public String health() {
 return "OK";
+}
+}
